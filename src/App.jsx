@@ -4,7 +4,7 @@ import "./App.css";
 import { ToastContainer } from "react-toastify";
 import Login from "./components/login/Login";
 import Dashboard from "./components/Company/dashboard/Dashboard";
-import SignupPage from "./components/login/Signup";
+import SignupPage from "./components/login/signup";
 // import SettingsPage from "./components/profile/setting/Setting";
 import MinimalistAdminSettings from "./components/profile/setting/Setting";
 import UserProfile from "./components/profile/profile/Profile";
