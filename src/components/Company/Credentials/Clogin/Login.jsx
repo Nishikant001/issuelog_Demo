@@ -59,13 +59,13 @@ export default function CompanyLogin() {
             </div>
             <div className="flex items-center">
               <a
-                href="#"
+                href="/cregistration"
                 className="text-gray-500 hover:text-gray-700 text-sm font-medium"
               >
                 Don't have an account?{" "}
-                <Link to="/cregistration">
+                
                 <span className="text-teal-600">Register</span>
-                </Link>
+                
               </a>
             </div>
           </div>
